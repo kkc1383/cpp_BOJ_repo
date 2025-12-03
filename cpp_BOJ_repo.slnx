@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/솔루션 항목/" />
   <Project Path="cpp_BOJ_repo.vcxproj" Id="87f2ec09-5412-4d26-9e2b-e9b3431d946b" />
 </Solution>
