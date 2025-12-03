@@ -18,5 +18,17 @@
     <ClCompile Include="2557_B5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10869_B5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2588_B3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9498_B5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
