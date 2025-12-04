@@ -135,5 +135,8 @@
     <ClCompile Include="2110_G4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2470_G5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
