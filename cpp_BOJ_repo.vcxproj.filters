@@ -144,5 +144,8 @@
     <ClCompile Include="10828_S4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10773_S4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
